@@ -1,0 +1,32 @@
+actData:[
+	{img:"/static/img/courseImg.jpg",
+	 couTit:"全面系统 Python3入门+进阶课程 更快<",
+	 couInfo:"中级",
+	 personImg:"/static/img/person.png",
+	 person:"4868"
+	 price:"￥266"},
+	{img:"/static/img/courseImg.jpg",
+	 couTit:"web Python3入门+进阶课程 更快<",
+	 couInfo:"高级",
+	 personImg:"/static/img/person.png",
+	 person:"4877"
+	 price:"￥866"},
+	{img:"/static/img/courseImg.jpg",
+	 couTit:"全面系统 Python3入门+进阶课程 更快<",
+	 couInfo:"初级",
+	 personImg:"/static/img/person.png",
+	 person:"2868"
+	 price:"￥166"},
+	{img:"/static/img/courseImg.jpg",
+	 couTit:"JAVA Python3入门+进阶课程 更快<",
+	 couInfo:"中级",
+	 personImg:"/static/img/person.png",
+	 person:"7868"
+	 price:"￥966"}
+	{img:"/static/img/courseImg.jpg",
+	 couTit:"NET Python3入门+进阶课程 更快<",
+	 couInfo:"高级",
+	 personImg:"/static/img/person.png",
+	 person:"3868"
+	 price:"￥286"}
+	] 
